@@ -10,4 +10,4 @@ AirportSearchEngine
 # Build folders
 build/
 *.o
-*.out
+*.out.DS_Store

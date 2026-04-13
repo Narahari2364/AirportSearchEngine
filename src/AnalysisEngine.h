@@ -1,3 +1,4 @@
+// Version 1.1 - Geographic calculations using Haversine formula
 #pragma once
 
 #include "Airport.h"

@@ -166,10 +166,7 @@ void UI::handleCountByType() {
 }
 
 void UI::handleAddAirport() {
-    // Clear any leftover newline before using getline repeatedly (important after cin >> input).
-    if (std::cin.peek() == '\n') {
-        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-    }
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
     Airport ap;
 

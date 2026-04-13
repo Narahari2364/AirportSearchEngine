@@ -1,3 +1,4 @@
+// Version 1.1 - Airport data structure for Nottingham SkyRoute Explorer
 #pragma once
 
 #include <string>

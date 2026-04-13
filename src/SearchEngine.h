@@ -1,3 +1,4 @@
+// Version 1.1 - Added case-insensitive search capability
 #pragma once
 
 #include "Airport.h"
